@@ -1,0 +1,16 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+}
+
+.twitter{
+    height: 100vh; /* Adjust the height as needed */
+    display: flex;
+    align-items: center;
+}
+
+#x-logo{
+    width: 475px;
+}
